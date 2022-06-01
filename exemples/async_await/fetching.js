@@ -1,3 +1,5 @@
+// async/await
+
 async function getData() {
     try {
       const response = await fetch('https://api.example.com/data');
